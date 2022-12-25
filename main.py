@@ -8,6 +8,7 @@ import colorama, requests, time , sys
 from discord.ext import commands
 
 
+# works!
 
 
 def print015(text):
